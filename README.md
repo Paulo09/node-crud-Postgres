@@ -8,3 +8,8 @@ npm i fastify<br>
 npm i nodemon<br>
 npm i postgres<br>
 
+criar arquivo - db.js<br>
+
+10. .env (Raiz)<br>
+11. npm i dotenv<br>
+
