@@ -13,3 +13,5 @@ criar arquivo - db.js<br>
 10. .env (Raiz)<br>
 11. npm i dotenv<br>
 
+https://www.npmjs.com/package/dotenv<br>
+
