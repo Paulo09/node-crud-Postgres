@@ -1,5 +1,7 @@
 // Import the framework and instantiate it
 import Fastify from 'fastify'
+import './db/db.js'
+
 
 const fastify = Fastify({
   logger: true
